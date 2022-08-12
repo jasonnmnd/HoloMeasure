@@ -1,0 +1,1274 @@
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+

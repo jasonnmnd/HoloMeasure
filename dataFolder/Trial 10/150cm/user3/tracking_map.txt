@@ -1,0 +1,815 @@
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+0 - None
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+1
+1
+1
+1
+1
+1
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+0 - ExcessiveMotion
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+0 - InsufficientFeatures
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
